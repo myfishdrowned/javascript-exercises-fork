@@ -6,6 +6,6 @@ const repeatString = function repeatString(str, num) {
     return result
 };
 
-console.log(repeatString('hey', 3))
+console.log(repeatString('hey', 19))
 // Do not edit below this line
 module.exports = repeatString;
